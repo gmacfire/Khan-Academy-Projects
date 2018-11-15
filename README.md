@@ -1,6 +1,6 @@
 # Khan-Academy-Projects
 Import of projects finished from Khan Academy
-* = should be looked at again
+[*] = should be looked at again
 
 html projects
 =============================================
